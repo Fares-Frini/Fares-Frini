@@ -3,10 +3,10 @@
 Hey there! 👋 I'm **Fares Frini**, a 22-year-old passionate IT engineer specializing in data science, with strong web development skills and a drive for innovation.
 
 **About Me:**
-- 💻 Full Stack JavaScript Developer
-- 🌱 Currently learning DevOps tools and AI to advance my career
+- 💻 Machine learning and deep learning skills
+- 🌱 Currently working on enhancing my web development skills.
 
-I'm passionate about technology and constantly seeking opportunities to learn and grow in the field. I believe in the power of innovation and collaboration, and I'm always excited to connect with like-minded individuals to discuss tech trends, share knowledge, and collaborate on exciting projects.
+Driven by my passion for technology, I'm continuously enhancing my web development skills and seeking out new opportunities to learn, innovate, and grow in the field.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/mohamed.habib.allah.bibani](https://www.facebook.com/fares.frini.3/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/mohamed-habib-allah-bibani-08b966230](https://www.linkedin.com/in/mohamed-fares-frini-91b518257/)) 
