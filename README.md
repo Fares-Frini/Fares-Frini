@@ -1,10 +1,7 @@
 # 💫 Fares Frini
 
-Hey there! 👋 I'm **Fares Frini**, a 22-year-old passionate IT engineer specializing in data science, with strong web development skills and a drive for innovation.
+Hey there! 👋 I'm **Fares Frini**, a 23-year-old passionate IT engineer specializing in data science, with strong web development skills and a drive for innovation.
 
-**About Me:**
-- 💻 Machine learning and deep learning skills
-- 🌱 Currently working on enhancing my web development skills.
 
 Driven by my passion for technology, I'm continuously enhancing my web development skills and seeking out new opportunities to learn, innovate, and grow in the field.
 
